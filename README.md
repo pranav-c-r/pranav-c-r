@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi! I'm Pranav</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611aiise6bue6fyek4q1j5ax2hnq1eu47f0lop1qq1x&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
